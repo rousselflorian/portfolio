@@ -1,0 +1,35 @@
+- categorie: Développement
+  competences:
+    - nom: HTML
+      niveau: 30
+    - nom: css
+      niveau: 30
+    - nom: PHP
+      niveau: 5
+    - nom: yamel
+      niveau: 3
+    - nom: Python
+      niveau: 3
+    - nom: réseau
+      niveau: 35
+    - nom: Mysql
+      niveau: 20
+  
+- categorie: aptitude social/ soft skills
+  competences:
+    - nom: contact clients
+      niveau: 65
+    - nom: aptitude oral
+      niveau: 55
+    - nom: leaderships
+      niveau: 35
+    - nom: ponctualité
+      niveau: 95
+- categorie: Bureautique
+  competences:
+    - nom: Word
+      niveau: 75
+    - nom: Exel
+      niveau: 70
+    - nom: powerpoint
+      niveau: 60

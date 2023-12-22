@@ -1,0 +1,14 @@
+experiences:
+  - nom: la boucherie restaurant
+    poste: serveur et cuisine
+    tache: service, bar, préparation des déssert et plonge
+
+  - nom: jean marc sol
+    poste: secrétaire
+    tache: pointage, archivage
+
+  - nom: MCdonald's
+    poste: employer polyvalent
+    tache: cuissont des viandes
+
+cv: cv.pdf

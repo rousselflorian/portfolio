@@ -1,0 +1,80 @@
+body
+{
+background-image:url("image/fond noir.avif");
+background-repeat: no-repeat;
+background-size: cover ;
+background-attachment: fixed;
+}
+img{
+  width:25%;
+ float:left;
+}
+#accueil{
+  text-align: center;
+}
+
+nav {
+    width: 100px;
+	position:fixed
+  }
+
+nav img {
+  width: 50px;
+
+}
+
+nav ul {
+  display: none;
+}
+
+nav:hover ul {
+  display: block;
+}
+
+p{
+font-family: Comic Sans MS;
+color:  white;
+margin: 0 20% 0 20%;
+}
+
+h1{
+font-size: 40px;
+color: darkred;
+text-shadow: 1px 1px 10px green;
+
+}
+
+h2{
+font-size: 24px;
+color: orange;
+text-shadow: #fc0 1px 0 10px;
+}
+/*
+D496D9
+*/
+section{
+  min-height: 100vh;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.niveau {
+  height: 15px;
+  background: blue;
+  display: inline-block;
+}
+
+.text{
+  margin: 0 20% 0% 20%;
+}
+.mail{
+  color: white;
+  margin: 0 20% 0% 20%;
+
+.bouton{
+  margin: 0% 20% 0% 20%
+}
+
+.message{
+   margin: 0% 20% 0% 20%;
+}
